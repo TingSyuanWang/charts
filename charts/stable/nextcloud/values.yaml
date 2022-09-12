@@ -6,7 +6,7 @@ image:
 nginxImage:
   repository: tccr.io/truecharts/nginx-unprivileged
   pullPolicy: IfNotPresent
-  tag: 1.23.1@sha256:b608a81e03a65c9b16e6b813f83af22d3feb968465a89d32c45c6554c41d97de
+  tag: 1.23.1@sha256:1bfe37fa5840a862ca2ad3c12297a3dfe60aa82a9b009d63545d7f083a5c8723
 
 imaginaryImage:
   repository: h2non/imaginary
